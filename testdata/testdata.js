@@ -1,7 +1,16 @@
 export const testData = {
-    userName: 'john',
-    password: 'demo',
-    invalidUserName: 'test',
-    invalidPassword: 'test'
-    
+    validUser: {
+        username: 'john',
+        password: 'demo'
+    },
+
+    invalidUser: {
+        username: 'test',
+        password: 'test'
+    },
+
+    emptyUser: {
+        username: '',
+        password: ''
+    }
 };
