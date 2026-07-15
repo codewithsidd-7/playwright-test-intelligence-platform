@@ -12,5 +12,11 @@ export const testData = {
     emptyUser: {
         username: '',
         password: ''
+    },
+    
+    accountTypes: {
+        savings: 'SAVINGS',
+        checking: 'CHECKING',
+        existingAccount: '12345'
     }
 };
