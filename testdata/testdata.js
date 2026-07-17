@@ -18,5 +18,11 @@ export const testData = {
         savings: 'SAVINGS',
         checking: 'CHECKING',
         existingAccount: '12345'
+    },
+
+     transferFunds: {
+        amount: '50',
+        fromAccount: '12345',
+        toAccount: '12456'
     }
 };
