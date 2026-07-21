@@ -32,8 +32,8 @@ export const testData = {
         state: 'Maharashtra',
         zipCode: '400001',
         phoneNumber: '9876543210',
-        accountNumber: '987654321',
-        verifyAccountNumber: '987654321',
+        accountNumber: '12345',
+        verifyAccountNumber: '12345',
         amount: '10',
         fromAccount: '12567'
     }

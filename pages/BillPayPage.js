@@ -35,16 +35,15 @@ export default class BillPayPage extends BasePage {
     }
 
     async getPayeeName() {
-        return await this.payeeNameResult.textContent().trim();
+        return (await this.payeeNameResult.innerText()).trim();
     }
 
     async getAmount() {
-        return await this.amountResult.textContent().trim();
+        return (await this.amountResult.innerText()).trim();
     }
 
     async getFromAccount() {
-        return await this.fromAccountResult.textContent().trim();
+        return (await this.fromAccountResult.innerText()).trim();
     }
-
 
 }
