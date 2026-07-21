@@ -1,6 +1,7 @@
 import BasePage from './BasePage.js';
 import OpenNewAccountPage from './OpenNewAccountPage.js';
 import TransferFundsPage from './TransferFundsPage.js';
+import BillPayPage from './BillPayPage.js';
 
 export default class AccountsOverviewPage extends BasePage {
 
@@ -12,6 +13,7 @@ export default class AccountsOverviewPage extends BasePage {
         this.logoutLink = this.page.getByRole('link', { name: 'Log Out' });
         this.accountsTable = this.page.locator('#accountTable');
         this.transferFundsLink = this.page.getByRole('link', { name: 'Transfer Funds' });
+        this.billPayLink = this.page.getByRole('link', { name: 'Bill Pay' });
     }
     async navigateToOpenNewAccount() {
         await this.openNewAccountLink.click();
@@ -21,6 +23,12 @@ export default class AccountsOverviewPage extends BasePage {
         await this.transferFundsLink.click();
         return new TransferFundsPage(this.page);
     }
+
+    async navigateToBillPay() {
+        await this.billPayLink.click();
+        return new BillPayPage(this.page);
+    }
+
 
 
 
