@@ -53,3 +53,144 @@
 [2026-07-22 12:42:00] INFO : Transferred Amount: $50.00
 [2026-07-22 12:42:00] INFO : From Account: 12345
 [2026-07-22 12:42:00] INFO : To Account: 12456
+[2026-07-22 16:48:56] INFO : Logging in with username: 
+[2026-07-22 16:48:56] INFO : Logging in with username: test
+[2026-07-22 16:48:57] INFO : Logging in with username: john
+[2026-07-22 16:48:57] INFO : Entered username
+[2026-07-22 16:48:57] INFO : Entered username
+[2026-07-22 16:48:57] INFO : Entered username
+[2026-07-22 16:48:57] INFO : Entered password
+[2026-07-22 16:48:57] INFO : Entered password
+[2026-07-22 16:48:57] INFO : Entered password
+[2026-07-22 16:48:57] INFO : Logging in with username: john
+[2026-07-22 16:48:57] INFO : Entered username
+[2026-07-22 16:48:57] INFO : Entered password
+[2026-07-22 16:48:58] INFO : Clicked Login button
+[2026-07-22 16:48:58] INFO : Clicked Login button
+[2026-07-22 16:48:58] INFO : Clicked Login button
+[2026-07-22 16:48:58] INFO : Clicked Login button
+[2026-07-22 16:48:58] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-22 16:48:58] INFO : Accounts Overview Heading is visible
+[2026-07-22 16:48:58] INFO : Verifying visibility of Logout Link
+[2026-07-22 16:48:58] INFO : Logout Link is visible
+[2026-07-22 16:55:27] INFO : Logging in with username: john
+[2026-07-22 16:55:27] INFO : Entered username
+[2026-07-22 16:55:27] INFO : Entered password
+[2026-07-22 16:55:28] INFO : Clicked Login button
+[2026-07-22 16:55:28] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-22 16:55:29] INFO : Accounts Overview Heading is visible
+[2026-07-22 16:55:29] INFO : Verifying visibility of Logout Link
+[2026-07-22 16:55:29] INFO : Logout Link is visible
+[2026-07-22 16:55:29] INFO : Navigating to Open New Account page
+[2026-07-22 16:55:30] INFO : Successfully navigated to Open New Account page
+[2026-07-22 16:55:30] INFO : Verifying visibility of Open New Account Heading
+[2026-07-22 16:55:30] INFO : Open New Account Heading is visible
+[2026-07-22 16:55:30] INFO : Creating SAVINGS account
+[2026-07-22 16:55:30] INFO : Selected account type: SAVINGS
+[2026-07-22 16:55:31] INFO : Selected existing account: 12345
+[2026-07-22 16:55:31] INFO : Clicked Open New Account button
+[2026-07-22 16:55:31] INFO : Verifying visibility of Account Creation Success Message
+[2026-07-22 16:55:32] INFO : Account Creation Success Message is visible
+[2026-07-22 16:55:32] INFO : New Account Created: 14232
+[2026-07-22 16:55:32] INFO : Verifying New Account Number is not empty
+[2026-07-22 16:55:32] INFO : New Account Number is not empty
+[2026-07-22 16:56:50] INFO : Logging in with username: john
+[2026-07-22 16:56:50] INFO : Entered username
+[2026-07-22 16:56:50] INFO : Entered password
+[2026-07-22 16:56:53] INFO : Clicked Login button
+[2026-07-22 16:56:53] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-22 16:56:53] INFO : Accounts Overview Heading is visible
+[2026-07-22 16:56:53] INFO : Verifying visibility of Logout Link
+[2026-07-22 16:56:53] INFO : Logout Link is visible
+[2026-07-22 16:56:53] INFO : Navigating to Transfer Funds page
+[2026-07-22 16:56:53] INFO : Successfully navigated to Transfer Funds page
+[2026-07-22 16:56:53] INFO : Verifying visibility of Transfer Funds Heading
+[2026-07-22 16:56:53] INFO : Transfer Funds Heading is visible
+[2026-07-22 16:56:53] INFO : Initiating fund transfer | Amount: 50, From: 12345, To: 12456
+[2026-07-22 16:56:54] INFO : Transfer request submitted
+[2026-07-22 16:56:54] INFO : Verifying visibility of Transfer Complete Heading
+[2026-07-22 16:56:56] INFO : Transfer Complete Heading is visible
+[2026-07-22 16:56:56] INFO : Transferred Amount: $50.00
+[2026-07-22 16:56:56] INFO : From Account: 12345
+[2026-07-22 16:56:56] INFO : To Account: 12456
+[2026-07-22 16:56:56] INFO : Verifying Transferred Amount
+[2026-07-22 16:56:56] INFO : Transferred Amount verified successfully
+[2026-07-22 16:56:56] INFO : Verifying From Account
+[2026-07-22 16:56:56] INFO : From Account verified successfully
+[2026-07-22 16:56:56] INFO : Verifying To Account
+[2026-07-22 16:56:56] INFO : To Account verified successfully
+[2026-07-22 17:01:23] INFO : Logging in with username: john
+[2026-07-22 17:01:23] INFO : Entered username
+[2026-07-22 17:01:23] INFO : Entered password
+[2026-07-22 17:01:25] INFO : Clicked Login button
+[2026-07-22 17:01:25] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-22 17:01:25] INFO : Accounts Overview Heading is visible
+[2026-07-22 17:01:25] INFO : Verifying visibility of Logout Link
+[2026-07-22 17:01:25] INFO : Logout Link is visible
+[2026-07-22 17:01:25] INFO : Navigating to Bill Pay page
+[2026-07-22 17:01:25] INFO : Successfully navigated to Bill Pay page
+[2026-07-22 17:01:25] INFO : Verifying visibility of Bill Pay Heading
+[2026-07-22 17:01:25] INFO : Bill Pay Heading is visible
+[2026-07-22 17:01:25] INFO : Paying bill to John Doe for Amount: 10
+[2026-07-22 17:01:26] INFO : Selected From Account: 12567
+[2026-07-22 17:01:26] INFO : Bill payment submitted
+[2026-07-22 17:01:26] INFO : Verifying visibility of Bill Payment Complete Heading
+[2026-07-22 17:01:51] INFO : Logging in with username: john
+[2026-07-22 17:01:51] INFO : Entered username
+[2026-07-22 17:01:51] INFO : Entered password
+[2026-07-22 17:01:52] INFO : Clicked Login button
+[2026-07-22 17:01:52] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-22 17:01:52] INFO : Accounts Overview Heading is visible
+[2026-07-22 17:01:52] INFO : Verifying visibility of Logout Link
+[2026-07-22 17:01:52] INFO : Logout Link is visible
+[2026-07-22 17:01:52] INFO : Navigating to Bill Pay page
+[2026-07-22 17:01:53] INFO : Successfully navigated to Bill Pay page
+[2026-07-22 17:01:53] INFO : Verifying visibility of Bill Pay Heading
+[2026-07-22 17:01:53] INFO : Bill Pay Heading is visible
+[2026-07-22 17:01:53] INFO : Paying bill to John Doe for Amount: 10
+[2026-07-22 17:01:53] INFO : Selected From Account: 12567
+[2026-07-22 17:01:53] INFO : Bill payment submitted
+[2026-07-22 17:01:53] INFO : Verifying visibility of Bill Payment Complete Heading
+[2026-07-22 17:02:06] INFO : Logging in with username: john
+[2026-07-22 17:02:06] INFO : Entered username
+[2026-07-22 17:02:06] INFO : Entered password
+[2026-07-22 17:02:07] INFO : Clicked Login button
+[2026-07-22 17:02:07] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-22 17:02:07] INFO : Accounts Overview Heading is visible
+[2026-07-22 17:02:07] INFO : Verifying visibility of Logout Link
+[2026-07-22 17:02:07] INFO : Logout Link is visible
+[2026-07-22 17:02:07] INFO : Navigating to Bill Pay page
+[2026-07-22 17:02:08] INFO : Successfully navigated to Bill Pay page
+[2026-07-22 17:02:08] INFO : Verifying visibility of Bill Pay Heading
+[2026-07-22 17:02:08] INFO : Bill Pay Heading is visible
+[2026-07-22 17:02:08] INFO : Paying bill to John Doe for Amount: 10
+[2026-07-22 17:02:08] INFO : Selected From Account: 12567
+[2026-07-22 17:02:08] INFO : Bill payment submitted
+[2026-07-22 17:02:08] INFO : Verifying visibility of Bill Payment Complete Heading
+[2026-07-22 17:03:26] INFO : Logging in with username: john
+[2026-07-22 17:03:26] INFO : Entered username
+[2026-07-22 17:03:26] INFO : Entered password
+[2026-07-22 17:03:27] INFO : Clicked Login button
+[2026-07-22 17:03:27] INFO : Navigating to Bill Pay page
+[2026-07-22 17:03:28] INFO : Successfully navigated to Bill Pay page
+[2026-07-22 17:03:28] INFO : Paying bill to John Doe for Amount: 10
+[2026-07-22 17:03:28] INFO : Selected From Account: 12567
+[2026-07-22 17:03:28] INFO : Bill payment submitted
+[2026-07-22 17:05:41] INFO : Logging in with username: john
+[2026-07-22 17:05:41] INFO : Entered username
+[2026-07-22 17:05:41] INFO : Entered password
+[2026-07-22 17:05:43] INFO : Clicked Login button
+[2026-07-22 17:05:43] INFO : Navigating to Bill Pay page
+[2026-07-22 17:05:43] INFO : Successfully navigated to Bill Pay page
+[2026-07-22 17:05:43] INFO : Paying bill to John Doe for Amount: 10
+[2026-07-22 17:05:43] INFO : Selected From Account: 12567
+[2026-07-22 17:05:43] INFO : Bill payment submitted
+[2026-07-22 17:06:37] INFO : Logging in with username: john
+[2026-07-22 17:06:37] INFO : Entered username
+[2026-07-22 17:06:37] INFO : Entered password
+[2026-07-22 17:06:38] INFO : Clicked Login button
+[2026-07-22 17:06:38] INFO : Navigating to Bill Pay page
+[2026-07-22 17:06:39] INFO : Successfully navigated to Bill Pay page
+[2026-07-22 17:06:39] INFO : Paying bill to John Doe for Amount: 10
+[2026-07-22 17:06:39] INFO : Selected From Account: 12567
+[2026-07-22 17:06:39] INFO : Bill payment submitted
