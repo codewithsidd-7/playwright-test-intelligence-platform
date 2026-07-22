@@ -1,0 +1,55 @@
+[2026-07-22 12:31:39] INFO : Logging in with username: 
+[2026-07-22 12:31:39] INFO : Logging in with username: test
+[2026-07-22 12:31:39] INFO : Logging in with username: john
+[2026-07-22 12:31:39] INFO : Entered username
+[2026-07-22 12:31:39] INFO : Entered username
+[2026-07-22 12:31:39] INFO : Entered password
+[2026-07-22 12:31:39] INFO : Entered password
+[2026-07-22 12:31:39] INFO : Entered username
+[2026-07-22 12:31:39] INFO : Entered password
+[2026-07-22 12:31:39] INFO : Logging in with username: john
+[2026-07-22 12:31:40] INFO : Entered username
+[2026-07-22 12:31:40] INFO : Entered password
+[2026-07-22 12:31:40] INFO : Clicked Login button
+[2026-07-22 12:31:41] INFO : Clicked Login button
+[2026-07-22 12:31:41] INFO : Clicked Login button
+[2026-07-22 12:31:42] INFO : Clicked Login button
+[2026-07-22 12:31:52] INFO : Logging in with username: test
+[2026-07-22 12:31:53] INFO : Entered username
+[2026-07-22 12:31:53] INFO : Entered password
+[2026-07-22 12:31:53] INFO : Logging in with username: john
+[2026-07-22 12:31:53] INFO : Entered username
+[2026-07-22 12:31:53] INFO : Entered password
+[2026-07-22 12:31:53] INFO : Clicked Login button
+[2026-07-22 12:31:53] INFO : Logging in with username: 
+[2026-07-22 12:31:54] INFO : Entered username
+[2026-07-22 12:31:54] INFO : Entered password
+[2026-07-22 12:31:54] INFO : Clicked Login button
+[2026-07-22 12:31:54] INFO : Clicked Login button
+[2026-07-22 12:31:54] INFO : Logging in with username: john
+[2026-07-22 12:31:55] INFO : Entered username
+[2026-07-22 12:31:55] INFO : Entered password
+[2026-07-22 12:31:55] INFO : Clicked Login button
+[2026-07-22 12:39:56] INFO : Logging in with username: john
+[2026-07-22 12:39:56] INFO : Entered username
+[2026-07-22 12:39:56] INFO : Entered password
+[2026-07-22 12:39:57] INFO : Clicked Login button
+[2026-07-22 12:39:57] INFO : Navigating to Bill Pay page
+[2026-07-22 12:39:57] INFO : Successfully navigated to Bill Pay page
+[2026-07-22 12:39:57] INFO : Paying bill to John Doe for Amount: 10
+[2026-07-22 12:39:58] INFO : Selected From Account: 12567
+[2026-07-22 12:39:58] INFO : Bill payment submitted
+[2026-07-22 12:39:58] INFO : Payee Name: John Doe
+[2026-07-22 12:39:59] INFO : Bill Amount: $10.00
+[2026-07-22 12:39:59] INFO : Payment From Account: 12567
+[2026-07-22 12:41:56] INFO : Logging in with username: john
+[2026-07-22 12:41:56] INFO : Entered username
+[2026-07-22 12:41:56] INFO : Entered password
+[2026-07-22 12:41:57] INFO : Clicked Login button
+[2026-07-22 12:41:57] INFO : Navigating to Transfer Funds page
+[2026-07-22 12:41:58] INFO : Successfully navigated to Transfer Funds page
+[2026-07-22 12:41:58] INFO : Initiating fund transfer | Amount: 50, From: 12345, To: 12456
+[2026-07-22 12:41:59] INFO : Transfer request submitted
+[2026-07-22 12:42:00] INFO : Transferred Amount: $50.00
+[2026-07-22 12:42:00] INFO : From Account: 12345
+[2026-07-22 12:42:00] INFO : To Account: 12456

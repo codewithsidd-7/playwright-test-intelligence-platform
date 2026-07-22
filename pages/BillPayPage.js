@@ -1,4 +1,5 @@
 import BasePage from './BasePage.js';
+import logger from '../logger/logger.js';
 export default class BillPayPage extends BasePage {
     constructor(page) {
         super(page);
@@ -21,6 +22,11 @@ export default class BillPayPage extends BasePage {
     }
 
     async payBill(billData) {
+
+        logger.info(
+            `Paying bill to ${billData.payeeName} for Amount: ${billData.amount}`
+        );
+
         await this.payeeNameInput.fill(billData.payeeName);
         await this.addressInput.fill(billData.address);
         await this.cityInput.fill(billData.city);
@@ -31,19 +37,36 @@ export default class BillPayPage extends BasePage {
         await this.verifyAccountNumberInput.fill(billData.verifyAccountNumber);
         await this.amountInput.fill(billData.amount);
         await this.fromAccountDropdown.selectOption(billData.fromAccount);
+
+        logger.info(`Selected From Account: ${billData.fromAccount}`);
+
         await this.sendPaymentButton.click();
+
+        logger.info('Bill payment submitted');
     }
 
     async getPayeeName() {
-        return (await this.payeeNameResult.innerText()).trim();
+        const payee = (await this.payeeNameResult.innerText()).trim();
+
+        logger.info(`Payee Name: ${payee}`);
+
+        return payee;
     }
 
     async getAmount() {
-        return (await this.amountResult.innerText()).trim();
+        const amount = (await this.amountResult.innerText()).trim();
+
+        logger.info(`Bill Amount: ${amount}`);
+
+        return amount;
     }
 
     async getFromAccount() {
-        return (await this.fromAccountResult.innerText()).trim();
+        const account = (await this.fromAccountResult.innerText()).trim();
+
+        logger.info(`Payment From Account: ${account}`);
+
+        return account;
     }
 
 }

@@ -1,4 +1,5 @@
 import BasePage from './BasePage.js';
+import logger from '../logger/logger.js';
 export default class TransferFundsPage extends BasePage {
     constructor(page) {
         super(page);
@@ -14,20 +15,45 @@ export default class TransferFundsPage extends BasePage {
     }
 
     async transferFunds(amount, fromAccount, toAccount) {
+
+        logger.info(
+            `Initiating fund transfer | Amount: ${amount}, From: ${fromAccount}, To: ${toAccount}`
+        );
+
         await this.transferAmountField.fill(amount);
+
         await this.transferFromAccountDropdown.selectOption(fromAccount);
+
         await this.transferToAccountDropdown.selectOption(toAccount);
+
         await this.transferButton.click();
+
+        logger.info('Transfer request submitted');
     }
     async getTransferredAmount() {
-        return (await this.transferAmountResult.textContent()).trim();
+
+        const amount = (await this.transferAmountResult.innerText()).trim();
+
+        logger.info(`Transferred Amount: ${amount}`);
+
+        return amount;
     }
 
     async getFromAccount() {
-        return (await this.fromAccountResult.textContent()).trim();
+
+        const account = (await this.fromAccountResult.innerText()).trim();
+
+        logger.info(`From Account: ${account}`);
+
+        return account;
     }
 
     async getToAccount() {
-        return (await this.toAccountResult.textContent()).trim();
+
+        const account = (await this.toAccountResult.innerText()).trim();
+
+        logger.info(`To Account: ${account}`);
+
+        return account;
     }
 }
