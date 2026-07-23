@@ -36,5 +36,30 @@ export const testData = {
         verifyAccountNumber: '12345',
         amount: '10',
         fromAccount: '12567'
+    },
+
+    findTransactions: {
+
+    byTransactionId: {
+        account: '17340',
+        transactionId: '14476'
+    },
+
+    byDate: {
+        account: '17340',
+        date: '2026-07-08'
+    },
+
+    byDateRange: {
+        account: '17340',
+        fromDate: '2026-07-01',
+        toDate: '2026-07-31'
+    },
+
+    byAmount: {
+        account: '17340',
+        amount: '1000'
     }
+
+}
 };

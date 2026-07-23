@@ -3,6 +3,7 @@ import OpenNewAccountPage from './OpenNewAccountPage.js';
 import TransferFundsPage from './TransferFundsPage.js';
 import BillPayPage from './BillPayPage.js';
 import logger from '../logger/logger.js';
+import FindTransactionsPage from './FindTransactionsPage.js';
 
 export default class AccountsOverviewPage extends BasePage {
 
@@ -15,6 +16,8 @@ export default class AccountsOverviewPage extends BasePage {
         this.accountsTable = this.page.locator('#accountTable');
         this.transferFundsLink = this.page.getByRole('link', { name: 'Transfer Funds' });
         this.billPayLink = this.page.getByRole('link', { name: 'Bill Pay' });
+        this.findTransactionLink = this.page.getByRole('link', { name: 'Find Transactions' });
+
     }
     async navigateToOpenNewAccount() {
         logger.info('Navigating to Open New Account page');
@@ -43,6 +46,16 @@ export default class AccountsOverviewPage extends BasePage {
         logger.info('Successfully navigated to Bill Pay page');
 
         return new BillPayPage(this.page);
+    }
+
+    async navigateToFindTransactions() {
+        logger.info('Navigating to Find Transactions page');
+
+        await this.findTransactionLink.click();
+
+        logger.info('Successfully navigated to Find Transactions page');
+
+        return new FindTransactionsPage(this.page);
     }
 
 

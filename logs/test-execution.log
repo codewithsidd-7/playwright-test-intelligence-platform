@@ -194,3 +194,337 @@
 [2026-07-22 17:06:39] INFO : Paying bill to John Doe for Amount: 10
 [2026-07-22 17:06:39] INFO : Selected From Account: 12567
 [2026-07-22 17:06:39] INFO : Bill payment submitted
+[2026-07-22 17:11:18] INFO : Logging in with username: john
+[2026-07-22 17:11:18] INFO : Entered username
+[2026-07-22 17:11:18] INFO : Entered password
+[2026-07-22 17:11:19] INFO : Clicked Login button
+[2026-07-22 17:11:19] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-22 17:11:19] INFO : Accounts Overview Heading is visible
+[2026-07-22 17:11:19] INFO : Verifying visibility of Logout Link
+[2026-07-22 17:11:19] INFO : Logout Link is visible
+[2026-07-22 17:11:19] INFO : Navigating to Bill Pay page
+[2026-07-22 17:11:20] INFO : Successfully navigated to Bill Pay page
+[2026-07-22 17:11:20] INFO : Verifying visibility of Bill Pay Heading
+[2026-07-22 17:11:20] INFO : Bill Pay Heading is visible
+[2026-07-22 17:11:20] INFO : Paying bill to John Doe for Amount: 10
+[2026-07-22 17:11:20] INFO : Selected From Account: 12567
+[2026-07-22 17:11:20] INFO : Bill payment submitted
+[2026-07-22 17:11:20] INFO : Verifying visibility of Bill Payment Complete Heading
+[2026-07-23 14:03:34] INFO : Logging in with username: john
+[2026-07-23 14:03:34] INFO : Logging in with username: john
+[2026-07-23 14:03:34] INFO : Logging in with username: john
+[2026-07-23 14:03:34] INFO : Logging in with username: john
+[2026-07-23 14:03:35] INFO : Entered username
+[2026-07-23 14:03:35] INFO : Entered username
+[2026-07-23 14:03:35] INFO : Entered username
+[2026-07-23 14:03:35] INFO : Entered username
+[2026-07-23 14:03:35] INFO : Entered password
+[2026-07-23 14:03:35] INFO : Entered password
+[2026-07-23 14:03:35] INFO : Entered password
+[2026-07-23 14:03:35] INFO : Entered password
+[2026-07-23 14:03:37] INFO : Clicked Login button
+[2026-07-23 14:03:37] INFO : Clicked Login button
+[2026-07-23 14:03:37] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:03:37] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:03:37] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:03:37] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:03:37] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:03:37] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:03:37] INFO : Logout Link is visible
+[2026-07-23 14:03:37] INFO : Logout Link is visible
+[2026-07-23 14:03:37] INFO : Navigating to Find Transactions page
+[2026-07-23 14:03:37] INFO : Navigating to Find Transactions page
+[2026-07-23 14:03:37] INFO : Clicked Login button
+[2026-07-23 14:03:37] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:03:37] INFO : Clicked Login button
+[2026-07-23 14:03:37] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:03:37] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:03:37] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:03:37] INFO : Logout Link is visible
+[2026-07-23 14:03:37] INFO : Navigating to Find Transactions page
+[2026-07-23 14:03:37] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:03:37] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:03:37] INFO : Logout Link is visible
+[2026-07-23 14:03:37] INFO : Navigating to Find Transactions page
+[2026-07-23 14:03:38] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:03:38] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:03:38] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:03:38] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:03:38] INFO : Find Transactions Heading is visible
+[2026-07-23 14:03:38] INFO : Find Transactions Heading is visible
+[2026-07-23 14:03:38] INFO : Searching transactions for Date: 2026-07-08
+[2026-07-23 14:03:38] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:03:38] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:03:38] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:03:38] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:03:38] INFO : Find Transactions Heading is visible
+[2026-07-23 14:03:38] INFO : Searching transactions from 2026-07-01 to 2026-07-31
+[2026-07-23 14:03:38] INFO : Find Transactions Heading is visible
+[2026-07-23 14:03:38] INFO : Searching transactions for Amount: 1000
+[2026-07-23 14:05:48] INFO : Logging in with username: john
+[2026-07-23 14:05:48] INFO : Logging in with username: john
+[2026-07-23 14:05:48] INFO : Entered username
+[2026-07-23 14:05:48] INFO : Entered password
+[2026-07-23 14:05:48] INFO : Entered username
+[2026-07-23 14:05:48] INFO : Entered password
+[2026-07-23 14:05:49] INFO : Logging in with username: john
+[2026-07-23 14:05:49] INFO : Logging in with username: john
+[2026-07-23 14:05:49] INFO : Entered username
+[2026-07-23 14:05:49] INFO : Entered username
+[2026-07-23 14:05:49] INFO : Entered password
+[2026-07-23 14:05:49] INFO : Entered password
+[2026-07-23 14:05:50] INFO : Clicked Login button
+[2026-07-23 14:05:50] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:05:50] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:05:50] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:05:50] INFO : Logout Link is visible
+[2026-07-23 14:05:50] INFO : Navigating to Find Transactions page
+[2026-07-23 14:05:50] INFO : Clicked Login button
+[2026-07-23 14:05:50] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:05:50] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:05:50] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:05:50] INFO : Logout Link is visible
+[2026-07-23 14:05:50] INFO : Navigating to Find Transactions page
+[2026-07-23 14:05:52] INFO : Clicked Login button
+[2026-07-23 14:05:52] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:05:52] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:05:52] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:05:52] INFO : Logout Link is visible
+[2026-07-23 14:05:52] INFO : Navigating to Find Transactions page
+[2026-07-23 14:05:52] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:05:52] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:05:52] INFO : Find Transactions Heading is visible
+[2026-07-23 14:05:52] INFO : Searching transactions for Amount: 1000
+[2026-07-23 14:05:53] INFO : Clicked Login button
+[2026-07-23 14:05:53] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:05:53] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:05:53] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:05:53] INFO : Logout Link is visible
+[2026-07-23 14:05:53] INFO : Navigating to Find Transactions page
+[2026-07-23 14:05:53] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:05:53] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:05:53] INFO : Find Transactions Heading is visible
+[2026-07-23 14:05:54] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:05:54] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:05:54] INFO : Find Transactions Heading is visible
+[2026-07-23 14:05:54] INFO : Searching transactions for Date: 2026-07-08
+[2026-07-23 14:05:55] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:05:55] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:05:55] INFO : Find Transactions Heading is visible
+[2026-07-23 14:05:55] INFO : Searching transactions from 2026-07-01 to 2026-07-31
+[2026-07-23 14:13:42] INFO : Logging in with username: john
+[2026-07-23 14:13:42] INFO : Logging in with username: john
+[2026-07-23 14:13:42] INFO : Logging in with username: john
+[2026-07-23 14:13:42] INFO : Entered username
+[2026-07-23 14:13:42] INFO : Entered username
+[2026-07-23 14:13:42] INFO : Entered username
+[2026-07-23 14:13:42] INFO : Entered password
+[2026-07-23 14:13:42] INFO : Entered password
+[2026-07-23 14:13:42] INFO : Entered password
+[2026-07-23 14:13:44] INFO : Clicked Login button
+[2026-07-23 14:13:44] INFO : Clicked Login button
+[2026-07-23 14:13:44] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:13:44] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:13:44] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:13:44] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:13:44] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:13:44] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:13:44] INFO : Logout Link is visible
+[2026-07-23 14:13:44] INFO : Navigating to Find Transactions page
+[2026-07-23 14:13:44] INFO : Logout Link is visible
+[2026-07-23 14:13:44] INFO : Navigating to Find Transactions page
+[2026-07-23 14:13:45] INFO : Clicked Login button
+[2026-07-23 14:13:45] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:13:45] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:13:45] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:13:45] INFO : Logout Link is visible
+[2026-07-23 14:13:45] INFO : Navigating to Find Transactions page
+[2026-07-23 14:13:45] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:13:45] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:13:45] INFO : Find Transactions Heading is visible
+[2026-07-23 14:13:45] INFO : Searching transaction by ID: 14476
+[2026-07-23 14:13:45] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:13:45] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:13:46] INFO : Find Transactions Heading is visible
+[2026-07-23 14:13:46] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:13:46] INFO : Searching transactions from 2026-07-01 to 2026-07-31
+[2026-07-23 14:13:46] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:13:46] INFO : Find Transactions Heading is visible
+[2026-07-23 14:13:46] INFO : Searching transactions for date: 2026-07-08
+[2026-07-23 14:13:52] INFO : Logging in with username: john
+[2026-07-23 14:13:52] INFO : Entered username
+[2026-07-23 14:13:52] INFO : Entered password
+[2026-07-23 14:13:53] INFO : Clicked Login button
+[2026-07-23 14:13:53] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:13:53] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:13:53] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:13:53] INFO : Logout Link is visible
+[2026-07-23 14:13:53] INFO : Navigating to Find Transactions page
+[2026-07-23 14:13:53] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:13:53] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:13:53] INFO : Find Transactions Heading is visible
+[2026-07-23 14:13:53] INFO : Searching transactions for amount: 1000
+[2026-07-23 14:14:27] INFO : Logging in with username: john
+[2026-07-23 14:14:27] INFO : Entered username
+[2026-07-23 14:14:27] INFO : Entered password
+[2026-07-23 14:14:28] INFO : Logging in with username: john
+[2026-07-23 14:14:28] INFO : Entered username
+[2026-07-23 14:14:28] INFO : Entered password
+[2026-07-23 14:14:29] INFO : Logging in with username: john
+[2026-07-23 14:14:29] INFO : Entered username
+[2026-07-23 14:14:29] INFO : Entered password
+[2026-07-23 14:14:29] INFO : Clicked Login button
+[2026-07-23 14:14:29] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:14:30] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:14:30] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:14:30] INFO : Logout Link is visible
+[2026-07-23 14:14:30] INFO : Navigating to Find Transactions page
+[2026-07-23 14:14:30] INFO : Clicked Login button
+[2026-07-23 14:14:30] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:14:30] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:14:30] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:14:30] INFO : Logout Link is visible
+[2026-07-23 14:14:30] INFO : Navigating to Find Transactions page
+[2026-07-23 14:14:31] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:14:31] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:14:31] INFO : Find Transactions Heading is visible
+[2026-07-23 14:14:31] INFO : Searching transactions from 2026-07-01 to 2026-07-31
+[2026-07-23 14:14:32] INFO : Clicked Login button
+[2026-07-23 14:14:32] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:14:32] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:14:32] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:14:32] INFO : Find Transactions Heading is visible
+[2026-07-23 14:14:32] INFO : Searching transactions for amount: 1000
+[2026-07-23 14:14:32] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:14:32] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:14:32] INFO : Logout Link is visible
+[2026-07-23 14:14:32] INFO : Navigating to Find Transactions page
+[2026-07-23 14:14:33] INFO : Logging in with username: john
+[2026-07-23 14:14:33] INFO : Entered username
+[2026-07-23 14:14:33] INFO : Entered password
+[2026-07-23 14:14:33] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:14:33] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:14:33] INFO : Find Transactions Heading is visible
+[2026-07-23 14:14:33] INFO : Searching transaction by ID: 14476
+[2026-07-23 14:14:40] INFO : Clicked Login button
+[2026-07-23 14:14:40] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:14:40] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:14:40] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:14:40] INFO : Logout Link is visible
+[2026-07-23 14:14:40] INFO : Navigating to Find Transactions page
+[2026-07-23 14:14:40] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:14:40] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:14:40] INFO : Find Transactions Heading is visible
+[2026-07-23 14:14:40] INFO : Searching transactions for date: 2026-07-08
+[2026-07-23 14:16:54] INFO : Logging in with username: john
+[2026-07-23 14:16:54] INFO : Entered username
+[2026-07-23 14:16:55] INFO : Entered password
+[2026-07-23 14:16:56] INFO : Logging in with username: john
+[2026-07-23 14:16:56] INFO : Clicked Login button
+[2026-07-23 14:16:56] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:16:56] INFO : Logging in with username: john
+[2026-07-23 14:16:56] INFO : Entered username
+[2026-07-23 14:16:56] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:16:56] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:16:56] INFO : Logout Link is visible
+[2026-07-23 14:16:56] INFO : Entered password
+[2026-07-23 14:16:56] INFO : Navigating to Find Transactions page
+[2026-07-23 14:16:56] INFO : Entered username
+[2026-07-23 14:16:56] INFO : Entered password
+[2026-07-23 14:16:57] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:16:57] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:16:58] INFO : Find Transactions Heading is visible
+[2026-07-23 14:16:58] INFO : Searching transactions from 2026-07-01 to 2026-07-31
+[2026-07-23 14:16:58] INFO : Clicked Login button
+[2026-07-23 14:16:58] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:16:58] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:16:58] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:16:58] INFO : Logout Link is visible
+[2026-07-23 14:16:58] INFO : Navigating to Find Transactions page
+[2026-07-23 14:16:59] INFO : Clicked Login button
+[2026-07-23 14:16:59] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:16:59] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:16:59] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:16:59] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:16:59] INFO : Find Transactions Heading is visible
+[2026-07-23 14:16:59] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:16:59] INFO : Searching transactions for amount: 1000
+[2026-07-23 14:16:59] INFO : Logout Link is visible
+[2026-07-23 14:16:59] INFO : Navigating to Find Transactions page
+[2026-07-23 14:17:00] INFO : Logging in with username: john
+[2026-07-23 14:17:00] INFO : Entered username
+[2026-07-23 14:17:00] INFO : Entered password
+[2026-07-23 14:17:01] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:17:01] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:17:01] INFO : Find Transactions Heading is visible
+[2026-07-23 14:17:01] INFO : Searching transaction by ID: 14476
+[2026-07-23 14:17:01] INFO : Clicked Login button
+[2026-07-23 14:17:01] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:17:02] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:17:02] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:17:02] INFO : Logout Link is visible
+[2026-07-23 14:17:02] INFO : Navigating to Find Transactions page
+[2026-07-23 14:17:03] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:17:03] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:17:03] INFO : Find Transactions Heading is visible
+[2026-07-23 14:17:03] INFO : Searching transactions for date: 2026-07-08
+[2026-07-23 14:17:53] INFO : Logging in with username: john
+[2026-07-23 14:17:53] INFO : Entered username
+[2026-07-23 14:17:53] INFO : Entered password
+[2026-07-23 14:17:55] INFO : Clicked Login button
+[2026-07-23 14:17:55] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:17:55] INFO : Logging in with username: john
+[2026-07-23 14:17:55] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:17:55] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:17:55] INFO : Logout Link is visible
+[2026-07-23 14:17:55] INFO : Navigating to Find Transactions page
+[2026-07-23 14:17:56] INFO : Entered username
+[2026-07-23 14:17:56] INFO : Entered password
+[2026-07-23 14:17:57] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:17:57] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:17:57] INFO : Find Transactions Heading is visible
+[2026-07-23 14:17:57] INFO : Searching transaction by ID: 14476
+[2026-07-23 14:17:57] INFO : Logging in with username: john
+[2026-07-23 14:17:58] INFO : Entered username
+[2026-07-23 14:17:58] INFO : Entered password
+[2026-07-23 14:17:58] INFO : Transaction search completed
+[2026-07-23 14:17:58] INFO : Verifying visibility of Transaction Result Heading
+[2026-07-23 14:17:58] INFO : Transaction Result Heading is visible
+[2026-07-23 14:17:58] INFO : Verifying Transaction Description
+[2026-07-23 14:17:58] INFO : Logging in with username: john
+[2026-07-23 14:17:59] INFO : Entered username
+[2026-07-23 14:17:59] INFO : Entered password
+[2026-07-23 14:17:59] INFO : Clicked Login button
+[2026-07-23 14:17:59] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:17:59] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:17:59] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:17:59] INFO : Logout Link is visible
+[2026-07-23 14:17:59] INFO : Navigating to Find Transactions page
+[2026-07-23 14:17:59] INFO : Clicked Login button
+[2026-07-23 14:17:59] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:17:59] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:17:59] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:18:00] INFO : Logout Link is visible
+[2026-07-23 14:18:00] INFO : Navigating to Find Transactions page
+[2026-07-23 14:18:01] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:18:01] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:18:01] INFO : Find Transactions Heading is visible
+[2026-07-23 14:18:01] INFO : Searching transactions for amount: 1000
+[2026-07-23 14:18:01] INFO : Clicked Login button
+[2026-07-23 14:18:01] INFO : Verifying visibility of Accounts Overview Heading
+[2026-07-23 14:18:01] INFO : Accounts Overview Heading is visible
+[2026-07-23 14:18:01] INFO : Verifying visibility of Logout Link
+[2026-07-23 14:18:01] INFO : Logout Link is visible
+[2026-07-23 14:18:01] INFO : Navigating to Find Transactions page
+[2026-07-23 14:18:02] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:18:02] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:18:02] INFO : Find Transactions Heading is visible
+[2026-07-23 14:18:02] INFO : Searching transactions for date: 2026-07-08
+[2026-07-23 14:18:03] INFO : Transaction search completed
+[2026-07-23 14:18:03] INFO : Verifying visibility of Transaction Result Heading
+[2026-07-23 14:18:03] INFO : Transaction Result Heading is visible
+[2026-07-23 14:18:03] INFO : Verifying Transaction Description
+[2026-07-23 14:18:05] INFO : Successfully navigated to Find Transactions page
+[2026-07-23 14:18:05] INFO : Verifying visibility of Find Transactions Heading
+[2026-07-23 14:18:05] INFO : Find Transactions Heading is visible
+[2026-07-23 14:18:05] INFO : Searching transactions from 2026-07-01 to 2026-07-31
