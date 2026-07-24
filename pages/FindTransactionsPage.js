@@ -33,7 +33,7 @@ export default class FindTransactionsPage extends BasePage {
         this.transactionRows = this.page.locator('#transactionBody tr');
     }
 
-    async searchByTransactionId(accountNumber, transactionId) {
+    async searchByTransactionID(accountNumber, transactionId) {
         logger.info(`Searching transaction by ID: ${transactionId}`);
 
         await this.accountDropdown.selectOption(accountNumber);

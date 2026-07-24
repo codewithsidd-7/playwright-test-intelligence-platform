@@ -39,27 +39,29 @@ export const testData = {
     },
 
     findTransactions: {
-
     byTransactionId: {
-        account: '17340',
-        transactionId: '14476'
+        account: '12345',
+        transactionId: '27130',
+        expectedDescription: 'Funds Transfer Sent'
     },
 
     byDate: {
-        account: '17340',
-        date: '2026-07-08'
+        account: '12345',
+        date: '07-23-2026',
+        expectedTransactionCount: 0
     },
 
     byDateRange: {
-        account: '17340',
-        fromDate: '2026-07-01',
-        toDate: '2026-07-31'
+        account: '12345',
+        fromDate: '07-22-2026',
+        toDate: '07-24-2026',
+        expectedTransactionCount: 39
     },
 
     byAmount: {
-        account: '17340',
-        amount: '1000'
+        account: '12345',
+        amount: '1000',
+        expectedDescription: 'Funds Transfer Sent'
     }
-
 }
 };
